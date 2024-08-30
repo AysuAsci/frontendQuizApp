@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Normal metin için minimum WCAG 2.1 Level AA gereksinimini tanımlayan renk kontrast oranı nedir?",
+    "options": ["4.5 : 1", "3 : 1", "2.5 : 1", "5 : 1"],
+    "answer": "4.5 : 1"
+  },
+  {
+    "question": "'WCAG' neyin kısaltmasıdır?",
+    "options": [
+      "Web Content Accessibility Guidelines",
+      "Web Community Accessible Guidelines",
+      "Web Compliance Accessibility Guidelines",
+      "World Wide Compliance Access Guide"
+    ],
+    "answer": "Web Content Accessibility Guidelines"
+  },
+  {
+    "question": "Ekran okuyucu kullanıcıları için resimler için alternatif metin sağlamak için hangi element kullanılır?",
+    "options": ["<alt>",
+                "<figcaption>",
+                "<description>",
+                "<img alt='description'>"],
+    "answer": "<img alt='description'>"
+  },
+  {
+    "question": "Aşağıdakilerden hangisi WCAG ilkesinden biri değildir?",
+    "options": ["Algılanabilir",
+                "Güvenilir",
+                "İşletilebilir",
+                "Anlaşılabilir"],
+    "answer": "Güvenilir"
+  },
+  {
+    "question": "Web geliştirmede ARIA'nın açılımı nedir?",
+    "options": [
+      "Accessible Rich Internet Applications",
+      "Advanced Rich Internet Applications",
+      "Asynchronous Rich Internet Applications",
+      "Authorized Rich Internet Applications"
+    ],
+    "answer": "Accessible Rich Internet Applications"
+  },
+  {
+    "question": "Tabii ki odaklanabilir olan ve 'tabindex' özniteliği olmadan odaklanabilen element hangisidir?",
+    "options": ["<div>",
+                "<span>",
+                "<a href='...'>",
+                "<p>"],
+    "answer": "<a href='...'>"
+  },
+  {
+    "question": "HTML sayfasında 'lang' özniteliğinin amacı nedir?",
+    "options": ["Perceivable", "Operable", "Understandable", "Robust"],
+    "answer": "Understandable"
+  },
+  {
+    "question": "Which of the following attributes is used to provide a text equivalent for non-text content in HTML?",
+    "options": ["Scripting dilini belirtmek için",
+                "Karakter setini tanımlamak için",
+                "Sayfa içeriğinin dilini belirtmek için",
+                "Dil paketini bildirmek için"],
+    "answer": "Sayfa içeriğinin dilini belirtmek için"
+  },
+  {
+      "question": "'skip navigation' bağlantılarının erişilebilirlikteki rolü nedir?",
+      "options": ["Ana gezinmeyi atlayarak ana içeriğe geçmek için",
+                  "Web sitesinin farklı bölümlerine kısayollar sağlamak için",
+                  "İstenmeyen bölümleri (reklamlar gibi) atlamaya yardımcı olmak için",
+                  "Gezinmedeki bozuk bağlantıları atlamak için"],
+      "answer": " Ana gezinmeyi atlayarak ana içeriğe geçmek için"
+  },
+  {
+      "question": "Bir web sitesinin erişilebilirliğini kontrol etmeye yardımcı olan araçlardan biri hangisidir?",
+      "options": ["W3C Validator",
+                  "Google Lighthouse",
+                  "CSS Validator",
+                  "JavaScript Console"],
+      "answer": "Google Lighthouse"
+  }
+]  

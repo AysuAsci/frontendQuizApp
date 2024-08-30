@@ -1,0 +1,84 @@
+[
+  {
+      "question": "Bir elementin fontunu değiştirmek için hangi özellik kullanılır?",
+      "options": ["font-style",
+                  "text-style",
+                  "font-family",
+                  "typeface"],
+      "answer": "font-family"
+  },
+  {
+      "question": "CSS'nin açılımı nedir?",
+      "options": [
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets",
+          "Creative Styling Structure"
+      ],
+      "answer": "Cascading Style Sheets"
+  },
+  {
+      "question": "Bir CSS dosyasında yorum nasıl eklenir?",
+      "options": ["// this is a comment //",
+                  "/* this is a comment */",
+                  "-- this is a comment --",
+                  "<!-- this is a comment -->"],
+      "answer": "/* this is a comment */"
+  },
+  {
+      "question": "Bir elementin arka plan rengini değiştirmek için hangi özellik kullanılır?",
+      "options": ["color",
+                  "bgcolor",
+                  "background-color",
+                  "background"],
+      "answer": "background-color"
+  },
+  {
+      "question": "Tüm <p> elementlerine stil uygulamak için nasıl yazılır?",
+      "options": ["p { }",
+                  ".p { }",
+                  "#p { }",
+                  "all.p { }"],
+      "answer": "p { }"
+  },
+  {
+      "question":"Bir elementin fontunu değiştirmek için hangi özellik kullanılır?",
+      "options": ["font-style",
+                  "text-style",
+                  "font-family",
+                  "typeface"],
+      "answer":  "font-family"
+  },
+  {
+      "question": "CSS'teki z-index özelliğinin amacı nedir?",
+      "options": ["Elementlerin sayısını saymak için",
+                  "Bir elementin büyütme seviyesini ayarlamak için",
+                  "Bir elementin yığılma sırasını belirtmek için",
+                  "Yakınlaştırma etkisi oluşturmak için"],
+      "answer": "Bir elementin yığılma sırasını belirtir."
+  },
+  {
+      "question": "'position' özelliğinin varsayılan değeri nedir?",
+      "options": ["relative",
+                  "fixed",
+                  "absolute",
+                  "static"],
+      "answer": "static"
+  },
+  {
+      "question": "'header' sınıf adına sahip bir elementi nasıl seçersiniz?",
+      "options": [".header",
+                  "#header",
+                  "header",
+                  "*header"],
+      "answer": ".header"
+  },
+  {
+      "question": "Metindeki her kelimenin büyük harfle başlamasını nasıl sağlarsınız?",
+      "options": ["text-transform: capitalize",
+                  "text-transform: uppercase",
+                  "text-style: capital",
+                  "font-transform: capitalize"],
+      "answer": "text-transform: capitalize"
+              }
+]

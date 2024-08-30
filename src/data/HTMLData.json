@@ -1,0 +1,78 @@
+[
+  {
+    "question": "HTML'nin açılımı nedir?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks Text Mark Language",
+      "Hyperlinking Text Management Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Bir HTML belgesinin doğru yapısı nedir?",
+    "options": [ "<html><head></head><body></body></html>",
+                 "<head><html></html><body></body></head>",
+                 "<body><head></head><html></html></body>",
+                 "<html><body></body><head></head></html>"],
+    "answer": "<html><head></head><body></body></html>"
+  },
+  {
+    "question": "Hangi HTML etiketi bir köprü oluşturmak için kullanılır?",
+    "options": ["<link>", "<a>", "<href>", "<connection>"],
+    "answer": "<a>"
+  },
+  {
+    "question": "HTML'de <body> etiketinin amacı nedir?",
+    "options": [
+      "Belgenin başlık kısmını tanımlar.",
+      "Tüm içeriği (metin, resimler ve bağlantılar gibi) içerir.",
+      "Bir HTML belgesinin ana içeriğini tanımlar.",
+      "HTML'deki e-posta içeriğinin gövdesini tanımlar."
+    ],
+    "answer": "Bir HTML belgesinin ana içeriğini tanımlar."
+  },
+  {
+    "question": "Which HTML element is used for inserting a line break?",
+    "options": ["<br>", "<lb>", "<break>", "<line>"],
+    "answer": "<br>"
+  },
+  {
+    "question": "Hangi HTML etiketi düzensiz bir liste oluşturur?",
+    "options": ["<ul>", "<ol>", "<li>", "<list>"],
+    "answer": "<ul>"
+  },
+  {
+    "question": "Bir elementin arka plan rengini değiştirmek için hangi özellik kullanılır?",
+    "options": ["color",
+                "bgcolor",
+                "background-color",
+                "background"],
+    "answer": "background-color"
+  },
+  {
+    "question": "Bir HTML belgesinin başlığını tanımlamak için hangi HTML elementi kullanılır?",
+    "options": ["<head>",
+                "<title>",
+                "<header>",
+                "<top>"],
+    "answer": "<title>"
+  },
+  {
+    "question": "HTML'de resimleri göstermek için hangi etiket kullanılır?",
+    "options": ["<img>",
+                "<image>",
+                "<src>",
+                "<pic>"],
+    "answer": " Bir satır sonu ekler."
+              },
+  
+  {
+    "question": "<br> etiketi ne yapar?",
+    "options": ["Metni iki bölüme ayırır.",
+                "Kalın metin oluşturur.",
+                "Bir satır sonu ekler.",
+                "Bir tabloda yeni bir satır ekler."],
+    "answer": "<style>"
+  }
+]

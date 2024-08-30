@@ -1,0 +1,85 @@
+[
+  {
+      "question": "'Hello World' mesajını bir uyarı penceresinde nasıl yazdırırsınız?",
+      "options": [ "alertBox('Hello World');",
+                   "msg('Hello World');",
+                   "alert('Hello World');",
+                   "msgBox('Hello World');"],
+      "answer": "alert('Hello World');"
+  },
+  {
+      "question": "'myFunction' adlı bir fonksiyonu nasıl çağırırsınız?",
+      "options": [
+          "call function myFunction()",
+          "call myFunction()",
+          "myFunction()",
+          "execute myFunction()"
+      ],
+      "answer": "myFunction()"
+  },
+  {
+      "question": "JavaScript'te bir IF ifadesini nasıl yazarsınız?",
+      "options": ["if i = 5 then",
+                  "if (i == 5)",
+                  "if i == 5",
+                  "if i = 5"],
+      "answer": "if (i == 5)"
+  },
+  {
+      "question": "'i' değişkeni 5'e eşit değilse bazı kodları çalıştırmak için IF ifadesini nasıl yazarsınız?",
+      "options": ["if (i <> 5)",
+                  "if i =! 5 then",
+                  "if (i != 5)",
+                  "if i not = 5"],
+      "answer":  "if (i != 5)"
+  },
+  {
+      "question": "Bir JavaScript dizisini doğru şekilde nasıl yazarsınız?",
+      "options": ["var colors = (1:'red', 2:'green', 3:'blue')",
+                  "var colors = ['red', 'green', 'blue']",
+                  "var colors = 'red', 'green', 'blue'",
+                  "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"],
+      "answer": "var colors = ['red', 'green', 'blue']"
+  },
+  {
+      "question": "x ve y değerlerinin en yüksek değerini nasıl bulursunuz?",
+      "options": ["Math.ceil(x, y)",
+                  "top(x, y)",
+                  "Math.max(x, y)",
+                  "Math.highest(x, y)"],
+      "answer": "Math.max(x, y)"
+  },
+  {
+      "question": "Bir değişkene değer atamak için hangi operatör kullanılır?",
+      "options": [ "-",
+                   "*",
+                   "=",
+                   "x"],
+      "answer": "="
+  },
+  {
+      "question": "Bir JavaScript nesnesini doğru şekilde nasıl yazarsınız?",
+      "options": ["var person = {firstName: 'John', lastName: 'Doe'};",
+                  "var person = {firstName = 'John', lastName = 'Doe'};",
+                  "var person = (firstName: 'John', lastName: 'Doe');",
+                  "var person = (firstName = 'John', lastName = 'Doe');"],
+      "answer": "var person = {firstName: 'John', lastName: 'Doe'};"
+  },
+  {
+      "question": "Bir FOR döngüsü nasıl başlar?",
+      "options": ["for (i = 0; i <= 5)",
+                  "for i = 1 to 5",
+                  "for (i <= 5; i++)",
+                  "for (i = 0; i <= 5; i++)"],
+      "answer": "for (i = 0; i <= 5; i++)"
+  },
+  {
+      "question": "'myFunction' adlı bir fonksiyonu nasıl çağırırsınız?",
+      "options": ["call function myFunction()",
+                  "call myFunction()",
+                  "myFunction()",
+                  "execute myFunction()"
+                  ],
+      "answer": "myFunction()"
+  }
+]
